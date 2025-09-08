@@ -1,0 +1,4 @@
+admission_type,admissions,median_los,p90_los
+Elective,200,18,28
+Urgent,197,18,28
+Emergency,228,16,27

@@ -1,0 +1,4 @@
+admission_type,admissions,admissions_per_week,p90_current,reduction_pct,reduction_label,p90_target_days,bed_days_freed_per_week
+Emergency,228,4.36,27,0.10,10%,24,11.8
+Emergency,228,4.36,27,0.15,15%,23,17.7
+Emergency,228,4.36,27,0.20,20%,22,23.5
